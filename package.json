@@ -1,0 +1,25 @@
+{
+  "name": "bucket-list",
+  "version": "1.0.0",
+  "description": "A sample app which use the MEAN stack: MongoDB 3.2 + ExpressJS + Angular 4+ + NodeJS 8",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreaPaciolla/bucket-list.git"
+  },
+  "author": "Andrea Paciolla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndreaPaciolla/bucket-list/issues"
+  },
+  "homepage": "https://github.com/AndreaPaciolla/bucket-list#readme",
+  "dependencies": {
+    "express": "~4.15.3",
+    "mongoose": "~4.11.0",
+    "cors": "~2.8.3",
+    "body-parser": "~1.17.2"
+  }
+}
